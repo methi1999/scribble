@@ -3,7 +3,7 @@ We particiapted in the 'Institute Technical Summer Project' program here at IIT 
 
 There are two main sections:
 
-Hardware - It consists of a 3D printed enclosure for the pen. A pressure switch is placed at the end of the refill. On pressing the pen against paper, the refill retracts, gets pressed against the switch and completes a simple circuit which consists of an LED. As the LED glows, a webcam placed below the paper tracks it's motion and saves the keystroke as a jpeg file. The training dataset can be found here: https://drive.google.com/open?id=1BsDy23rmHWPDvTSxoXBXPQR2KJ5oUyez
+Hardware - It consists of a 3D-printed enclosure for the pen. A pressure switch is placed at the end of the refill. On pressing the pen against paper, the refill retracts, gets pressed against the switch and completes a simple circuit which consists of an LED. As the LED glows, a webcam placed below the paper tracks it's motion and saves the keystroke as a jpeg file. The training dataset can be found here: https://drive.google.com/open?id=1BsDy23rmHWPDvTSxoXBXPQR2KJ5oUyez
 
 Then comes the crucial task of recognising the letter which is described below.
 
